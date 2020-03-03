@@ -1,0 +1,83 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="src/Resources/contao/languages/en/tl_thememanager.php" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="tl_thememanager.tns_legend">
+        <source>Tiny-Slider</source>
+        <target>Tiny-Slider</target>
+      </trans-unit>
+
+      <trans-unit id="tl_thememanager.tns-dot-size.0">
+          <source>$tns-dot-size</source>
+          <target>$tns-dot-size</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-dot-size.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-dot-spacing.0">
+          <source>$tns-dot-spacing</source>
+          <target>$tns-dot-spacing</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-dot-spacing.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-controls-outer-offset.0">
+          <source>$tns-controls-outer-offset</source>
+          <target>$tns-controls-outer-offset</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-controls-outer-offset.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-regular.0">
+          <source>$tns-color-regular</source>
+          <target>$tns-color-regular</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-regular.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-regular-active.0">
+          <source>$tns-color-regular-active</source>
+          <target>$tns-color-regular-active</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-regular-active.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-invert.0">
+          <source>$tns-color-invert</source>
+          <target>$tns-color-invert</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-invert.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-invert-active.0">
+          <source>$tns-color-invert-active</source>
+          <target>$tns-color-invert-active</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-invert-active.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-extra.0">
+          <source>$tns-color-extra</source>
+          <target>$tns-color-extra</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-extra.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-extra-active.0">
+          <source>$tns-color-extra-active</source>
+          <target>$tns-color-extra-active</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-color-extra-active.1">
+          <source></source>
+          <target></target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

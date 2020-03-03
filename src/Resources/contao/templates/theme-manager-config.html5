@@ -1,0 +1,67 @@
+<?php
+return array(
+    'palettes' => array(
+        'default'  => '{tns_legend:hide},tns-dot-size,tns-dot-spacing,tns-controls-outer-offset,tns-color-regular,tns-color-regular-active,tns-color-invert,tns-color-invert-active,tns-color-extra,tns-color-extra-active;'
+    ),
+    'fields'   => array(
+        // Tiny Slider
+        'tns-dot-size' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-dot-size'],
+            'inputType'               => 'inputUnit',
+            'options'                 => $GLOBALS['TL_CSS_UNITS'],
+            'eval'                    => array('placeholder'=>'12px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 20, 'tl_class'=>'w50'),
+        ),
+        'tns-dot-spacing' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-dot-spacing'],
+            'inputType'               => 'inputUnit',
+            'options'                 => $GLOBALS['TL_CSS_UNITS'],
+            'eval'                    => array('placeholder'=>'5px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 20, 'tl_class'=>'w50'),
+        ),
+        'tns-controls-outer-offset' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-controls-outer-offset'],
+            'inputType'               => 'inputUnit',
+            'options'                 => $GLOBALS['TL_CSS_UNITS'],
+            'eval'                    => array('placeholder'=>'100px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 20, 'tl_class'=>'w50'),
+        ),
+
+        'tns-color-regular' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular'],
+            'inputType'               => 'text',
+            'eval'                    => array('placeholder'=>'rgba(0,0,0,.6)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 clr wizard'),
+        ),
+        'tns-color-regular-active' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular-active'],
+            'inputType'               => 'text',
+            'eval'                    => array('placeholder'=>'rgba(0,0,0,1)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
+        ),
+        'tns-color-invert' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-invert'],
+            'inputType'               => 'text',
+            'eval'                    => array('placeholder'=>'rgba(255,255,255,.6)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
+        ),
+        'tns-color-invert-active' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-invert-active'],
+            'inputType'               => 'text',
+            'eval'                    => array('placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
+        ),
+        'tns-color-extra' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-extra'],
+            'inputType'               => 'text',
+            'eval'                    => array('placeholder'=>'rgba($primary,.6)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
+        ),
+        'tns-color-extra-active' => array
+        (
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-extra-active'],
+            'inputType'               => 'text',
+            'eval'                    => array('placeholder'=>'rgba($primary,1)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
+        )
+    )
+);
