@@ -117,11 +117,10 @@
                             data = {disable: true};
                         }
 
-                        settings = extend(true, settings, {
-                            'responsive': {
-                                [tnsBreakpoints[k]]: data
-                            }
-                        });
+                        let objResponsive = {'responsive': {}};
+                            objResponsive['responsive'][tnsBreakpoints[k]] = data;
+
+                        settings = extend(true, settings, objResponsive);
                     }else{
                         settings = extend(true, settings, data);
                     }
