@@ -127,7 +127,7 @@
                 }
             }
 
-            tns(extend(true, defaults, settings));
+            tnsSliders[i].tinySlider = tns(extend(true, defaults, settings));
         }
     })();
 </script>
