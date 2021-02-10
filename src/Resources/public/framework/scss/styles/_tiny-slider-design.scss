@@ -122,6 +122,29 @@
   @include tns-nav-design('vr');
 }
 
+.boxed-shadow {
+
+  &[class*="tns-controls-design"] {
+    position: relative;
+
+    .tns-outer {
+      position: initial;
+    }
+
+    .tns-controls {
+      bottom: $grid-gutter-bottom;
+    }
+  }
+
+  &[class*='tns-nav-design-'][class*='-vr'],
+  &[class*='tns-nav-design-'][class*='-vl'] {
+
+    .tns-outer .tns-nav {
+      margin: 0 $grid-gutter-width;
+    }
+  }
+}
+
 @include media-breakpoint('xs') {
   .tns-controls-design-xs-inner{
     @include tns-controls-design;

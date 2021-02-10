@@ -95,22 +95,6 @@
       }
     }
   }
-
-  &[class*='tns-nav-design-'][class*='-vr'],
-  &[class*='tns-nav-design-'][class*='-vl'] {
-
-    .tns-outer .tns-nav {
-      margin: 0 $grid-gutter-width;
-    }
-  }
-
-  &[class*="tns-controls-design"] {
-    position: relative;
-
-    .tns-outer {
-      position: initial;
-    }
-  }
 }
 
 .text-color-invert, .tns-nav-color-invert{
