@@ -18,6 +18,15 @@
       padding: 0 divide($grid-gutter-width, 2) divide($grid-gutter-width, 2);
     }
   }
+
+  .tns-item {
+    -webkit-user-select: none;
+    user-select: none;
+
+    img {
+      -webkit-user-drag: none;
+    }
+  }
 }
 
 .tns-nav{
