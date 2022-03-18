@@ -82,7 +82,7 @@
             ]
         };
 
-        let tnsSliders = document.querySelectorAll('.init-tns-slider'), i=0;
+        let tnsSliders = document.querySelectorAll('.init-slider .c_list, .init-slider .c_slider'), i=0;
 
         for (;i<tnsSliders.length; i++){
             let settings = {container: tnsSliders[i]};

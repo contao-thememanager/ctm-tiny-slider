@@ -1,7 +1,49 @@
-.init-tns-slider{
+.init-slider{
 
-  > div{
+  > .inside{
+    margin: -#{divide($grid-gutter-width,2)};
+  }
+
+  .c_list > div{
     outline: 0 none;
+  }
+
+  .tns-ovh {
+    margin: divide($grid-gutter-width, 2);
+    overflow: visible;
+  }
+
+  &.boxed, &.ce_wrapper{
+
+    .tns-ovh{
+      margin: 0;
+    }
+  }
+
+  &.boxed{
+
+     > .inside{
+       margin: 0;
+     }
+  }
+
+  &.ce_wrapper{
+    overflow: hidden;
+  }
+
+  .tns-nav,
+  .tns-controls {
+    margin: $grid-gutter-bottom divide($grid-gutter-width, 2) divide($grid-gutter-width, 2);
+  }
+
+  .tns-outer {
+    > div:first-child,
+    > div:nth-child(2) {
+      &.tns-nav,
+      &.tns-controls {
+        margin: divide($grid-gutter-width, 2) divide($grid-gutter-width, 2) $grid-gutter-bottom;
+      }
+    }
   }
 }
 
@@ -79,29 +121,6 @@
     &.tns-nav,
     &.tns-controls {
       margin: 0 0 $grid-gutter-bottom;
-    }
-  }
-}
-
-.boxed-shadow {
-
-  .tns-ovh {
-    margin: divide($grid-gutter-width, 2);
-    overflow: visible;
-  }
-
-  .tns-nav,
-  .tns-controls {
-    margin: $grid-gutter-bottom divide($grid-gutter-width, 2) divide($grid-gutter-width, 2);
-  }
-
-  .tns-outer {
-    > div:first-child,
-    > div:nth-child(2) {
-      &.tns-nav,
-      &.tns-controls {
-        margin: divide($grid-gutter-width, 2) divide($grid-gutter-width, 2) $grid-gutter-bottom;
-      }
     }
   }
 }
