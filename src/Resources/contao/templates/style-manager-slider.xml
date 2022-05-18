@@ -31,7 +31,7 @@
         <field title="extendContentElement">1</field>
         <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
         <field title="extendModule">1</field>
-        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:11:"eventlist";}</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
         <field title="extendNews"></field>
         <field title="extendEvents"></field>
       </child>
