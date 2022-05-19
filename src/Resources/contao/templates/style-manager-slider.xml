@@ -418,7 +418,7 @@
         <field title="alias">gutter</field>
         <field title="title">Gutter</field>
         <field title="description">Space between slides.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"15";s:5:"value";s:2:"15";}i:2;a:2:{s:3:"key";s:2:"30";s:5:"value";s:2:"30";}i:3;a:2:{s:3:"key";s:2:"50";s:5:"value";s:2:"50";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"16";s:5:"value";s:2:"16";}i:2;a:2:{s:3:"key";s:2:"32";s:5:"value";s:2:"32";}i:3;a:2:{s:3:"key";s:2:"48";s:5:"value";s:2:"48";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -975,7 +975,7 @@
         <field title="alias">gutter</field>
         <field title="title">Gutter</field>
         <field title="description">Space between slides.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"15";s:5:"value";s:2:"15";}i:2;a:2:{s:3:"key";s:2:"30";s:5:"value";s:2:"30";}i:3;a:2:{s:3:"key";s:2:"50";s:5:"value";s:2:"50";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"16";s:5:"value";s:2:"16";}i:2;a:2:{s:3:"key";s:2:"32";s:5:"value";s:2:"32";}i:3;a:2:{s:3:"key";s:2:"48";s:5:"value";s:2:"48";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1428,7 +1428,7 @@
         <field title="alias">gutter</field>
         <field title="title">Gutter</field>
         <field title="description">Space between slides.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"15";s:5:"value";s:2:"15";}i:2;a:2:{s:3:"key";s:2:"30";s:5:"value";s:2:"30";}i:3;a:2:{s:3:"key";s:2:"50";s:5:"value";s:2:"50";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"16";s:5:"value";s:2:"16";}i:2;a:2:{s:3:"key";s:2:"32";s:5:"value";s:2:"32";}i:3;a:2:{s:3:"key";s:2:"48";s:5:"value";s:2:"48";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1881,7 +1881,7 @@
         <field title="alias">gutter</field>
         <field title="title">Gutter</field>
         <field title="description">Space between slides.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"15";s:5:"value";s:2:"15";}i:2;a:2:{s:3:"key";s:2:"30";s:5:"value";s:2:"30";}i:3;a:2:{s:3:"key";s:2:"50";s:5:"value";s:2:"50";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"16";s:5:"value";s:2:"16";}i:2;a:2:{s:3:"key";s:2:"32";s:5:"value";s:2:"32";}i:3;a:2:{s:3:"key";s:2:"48";s:5:"value";s:2:"48";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -2334,7 +2334,7 @@
         <field title="alias">gutter</field>
         <field title="title">Gutter</field>
         <field title="description">Space between slides.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"15";s:5:"value";s:2:"15";}i:2;a:2:{s:3:"key";s:2:"30";s:5:"value";s:2:"30";}i:3;a:2:{s:3:"key";s:2:"50";s:5:"value";s:2:"50";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"16";s:5:"value";s:2:"16";}i:2;a:2:{s:3:"key";s:2:"32";s:5:"value";s:2:"32";}i:3;a:2:{s:3:"key";s:2:"48";s:5:"value";s:2:"48";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -2787,7 +2787,7 @@
         <field title="alias">gutter</field>
         <field title="title">Gutter</field>
         <field title="description">Space between slides.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"15";s:5:"value";s:2:"15";}i:2;a:2:{s:3:"key";s:2:"30";s:5:"value";s:2:"30";}i:3;a:2:{s:3:"key";s:2:"50";s:5:"value";s:2:"50";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:1:"0";s:5:"value";s:1:"0";}i:1;a:2:{s:3:"key";s:2:"16";s:5:"value";s:2:"16";}i:2;a:2:{s:3:"key";s:2:"32";s:5:"value";s:2:"32";}i:3;a:2:{s:3:"key";s:2:"48";s:5:"value";s:2:"48";}}</field>
         <field title="cssClass"></field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
