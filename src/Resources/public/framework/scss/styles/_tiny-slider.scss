@@ -1,6 +1,7 @@
 .init-slider{
 
   > .inside{
+    overflow: hidden;
     margin: -#{divide($grid-gutter-width,2)};
 
     > .c_headline {
