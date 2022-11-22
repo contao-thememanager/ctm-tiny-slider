@@ -26,8 +26,10 @@ class Plugin implements BundlePluginInterface
     {
         return [
             BundleConfig::create(ContaoThemeManagerTinySlider::class)
-                ->setLoadAfter([ContaoCoreBundle::class, ContaoThemeManagerCore::class])
-                ->setReplace(['ctm-tiny-slider']),
+                ->setLoadAfter([
+                    ContaoCoreBundle::class,
+                    ContaoThemeManagerCore::class
+                ])->setReplace(['ctm-tiny-slider']),
         ];
     }
 }
