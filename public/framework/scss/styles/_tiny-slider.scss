@@ -27,9 +27,9 @@
 
   &.boxed{
 
-     > .inside{
-       margin: 0;
-     }
+    > .inside{
+      margin: 0;
+    }
   }
 
   &.ce_wrapper{
@@ -54,20 +54,9 @@
 
 .tns-slider{
 
-  /*&.grid-list {
-    margin: 0;
-
-    > div {
-      padding: 0;
-    }
-
-    &.tns-vertical > div {
-      padding: 0 divide($grid-gutter-width, 2) divide($grid-gutter-width, 2);
-    }
-  }*/
-
   &.grid-list {
-    --gap: 0rem;
+    --v-gap: 0rem;
+    --h-gap: 0rem;
   }
 
   .tns-item {
