@@ -4,6 +4,9 @@
       overflow: visible;
     }
   }
+  @else {
+    overflow: hidden;
+  }
 
   .tns-outer{
     position: relative;
