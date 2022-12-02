@@ -1,6 +1,7 @@
-.init-slider{
+.init-slider {
+  overflow: hidden;
 
-  > .inside{
+  > .inside {
     overflow: hidden;
     margin: -#{divide($grid-gutter-width,2)};
 
