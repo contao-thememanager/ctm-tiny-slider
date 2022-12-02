@@ -92,7 +92,7 @@
 }
 
 [class*="tns-nav-design"]{
-  @include tns-absolute(false, '.tns-nav');
+  @include tns-absolute('.tns-nav');
 
   .tns-outer .tns-nav {
     margin: divide($grid-gutter-bottom, 2) 0;
