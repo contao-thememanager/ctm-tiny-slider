@@ -80,7 +80,7 @@
   }
 }
 
-[class*="tns-controls-design"]{
+[class*="tns-controls-design-"][class*="-outer"]{
   @include tns-absolute{
     display: flex;
     justify-content: space-between;
