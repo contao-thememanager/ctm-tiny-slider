@@ -1,13 +1,4 @@
-@mixin tns-absolute($overflow: true, $selector: '.tns-controls'){
-  @if $overflow {
-    &.block{
-      overflow: visible;
-    }
-  }
-  @else {
-    overflow-x: hidden;
-  }
-
+@mixin tns-absolute($selector: '.tns-controls'){
   .tns-outer{
     position: relative;
 
@@ -83,7 +74,7 @@
   }
 }
 
-[class*="tns-controls-design-"][class*="-outer"]{
+[class*="tns-controls-design-"] {
   @include tns-absolute{
     display: flex;
     justify-content: space-between;
@@ -94,6 +85,10 @@
     margin-top: 0;
     margin-bottom: 0;
   }
+}
+
+[class*="tns-controls-design-"][class*="-outer"] {
+  overflow: visible;
 }
 
 [class*="tns-nav-design"]{
