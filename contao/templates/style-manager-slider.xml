@@ -28,8 +28,8 @@
         <field title="alias">navColor</field>
         <field title="title">Nav Color</field>
         <field title="description">Here you can define the color of the navigation &amp;#40;dots&amp;#41;.</field>
-        <field title="cssClasses">a:3:{i:0;a:2:{s:3:"key";s:21:"tns-nav-color-regular";s:5:"value";s:7:"Regular";}i:1;a:2:{s:3:"key";s:20:"tns-nav-color-invert";s:5:"value";s:6:"Invert";}i:2;a:2:{s:3:"key";s:19:"tns-nav-color-extra";s:5:"value";s:5:"Extra";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tns-nav-2";s:5:"value";s:7:"Primary";}i:1;a:2:{s:3:"key";s:9:"tns-nav-3";s:5:"value";s:9:"Secondary";}}</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -43,7 +43,7 @@
         <field title="alias">controlsColor</field>
         <field title="title">Controls Color</field>
         <field title="description">Here you can define the color of the controls &amp;#40;arrows&amp;#41;.</field>
-        <field title="cssClasses">a:3:{i:0;a:2:{s:3:"key";s:26:"tns-controls-color-regular";s:5:"value";s:7:"Regular";}i:1;a:2:{s:3:"key";s:25:"tns-controls-color-invert";s:5:"value";s:6:"Invert";}i:2;a:2:{s:3:"key";s:24:"tns-controls-color-extra";s:5:"value";s:5:"Extra";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:14:"tns-controls-2";s:5:"value";s:7:"Primary";}i:1;a:2:{s:3:"key";s:14:"tns-controls-3";s:5:"value";s:9:"Secondary";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -217,7 +217,7 @@
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -293,7 +293,7 @@
         <field title="title">Controls</field>
         <field title="description">Controls the display and functionalities of controls components &amp;#40;prev/next buttons/arrows&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -323,7 +323,7 @@
         <field title="alias">controlsDesign</field>
         <field title="title">Controls Design</field>
         <field title="description">Controls controls Design.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:25:"tns-controls-design-inner";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:25:"tns-controls-design-outer";s:5:"value";s:13:"Overlay Outer";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"tbtn-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:8:"tbtn-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -338,7 +338,7 @@
         <field title="title">Nav</field>
         <field title="description">Controls the display and functionalities of nav components &amp;#40;dots&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -368,7 +368,7 @@
         <field title="alias">navDesign</field>
         <field title="title">Nav Design</field>
         <field title="description">Controls Nav Design.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:21:"tns-nav-design-bottom";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:18:"tns-nav-design-top";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:17:"tns-nav-design-vr";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:17:"tns-nav-design-vl";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:6:"tnav-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:6:"tnav-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:6:"tnav-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:6:"tnav-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -383,7 +383,7 @@
         <field title="title">Autoplay</field>
         <field title="description">Toggles the automatic change of slides.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -543,7 +543,7 @@
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -619,7 +619,7 @@
         <field title="title">Controls</field>
         <field title="description">Controls the display and functionalities of controls components &amp;#40;prev/next buttons/arrows&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -634,7 +634,7 @@
         <field title="alias">controlsDesignXS</field>
         <field title="title">Controls Design</field>
         <field title="description">Controls controls Design.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:28:"tns-controls-design-xs-inner";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:28:"tns-controls-design-xs-outer";s:5:"value";s:13:"Overlay Outer";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:10:"tbtn-xs-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:11:"tbtn-xs-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -649,7 +649,7 @@
         <field title="title">Nav</field>
         <field title="description">Controls the display and functionalities of nav components &amp;#40;dots&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -664,7 +664,7 @@
         <field title="alias">navDesign</field>
         <field title="title">Nav Design</field>
         <field title="description">Controls Nav Design.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:24:"tns-nav-design-xs-bottom";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:21:"tns-nav-design-xs-top";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:20:"tns-nav-design-xs-vr";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:20:"tns-nav-design-xs-vl";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:9:"tnav-xs-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:9:"tnav-xs-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:9:"tnav-xs-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:9:"tnav-xs-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -679,7 +679,7 @@
         <field title="title">Autoplay</field>
         <field title="description">Toggles the automatic change of slides.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -809,7 +809,7 @@
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -885,7 +885,7 @@
         <field title="title">Controls</field>
         <field title="description">Controls the display and functionalities of controls components &amp;#40;prev/next buttons/arrows&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -900,7 +900,7 @@
         <field title="alias">controlsDesignS</field>
         <field title="title">Controls Design</field>
         <field title="description">Controls controls Design.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:27:"tns-controls-design-s-inner";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:27:"tns-controls-design-s-outer";s:5:"value";s:13:"Overlay Outer";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tbtn-s-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:10:"tbtn-s-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -915,7 +915,7 @@
         <field title="title">Nav</field>
         <field title="description">Controls the display and functionalities of nav components &amp;#40;dots&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -930,7 +930,7 @@
         <field title="alias">navDesign</field>
         <field title="title">Nav Design</field>
         <field title="description">Controls Nav Design.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:23:"tns-nav-design-s-bottom";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:20:"tns-nav-design-s-top";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:19:"tns-nav-design-s-vr";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:19:"tns-nav-design-s-vl";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:8:"tnav-s-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:8:"tnav-s-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:8:"tnav-s-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:8:"tnav-s-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -945,7 +945,7 @@
         <field title="title">Autoplay</field>
         <field title="description">Toggles the automatic change of slides.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1075,7 +1075,7 @@
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1151,7 +1151,7 @@
         <field title="title">Controls</field>
         <field title="description">Controls the display and functionalities of controls components &amp;#40;prev/next buttons/arrows&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1166,7 +1166,7 @@
         <field title="alias">controlsDesignM</field>
         <field title="title">Controls Design</field>
         <field title="description">Controls controls Design.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:27:"tns-controls-design-m-inner";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:27:"tns-controls-design-m-outer";s:5:"value";s:13:"Overlay Outer";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tbtn-m-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:10:"tbtn-m-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -1181,7 +1181,7 @@
         <field title="title">Nav</field>
         <field title="description">Controls the display and functionalities of nav components &amp;#40;dots&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1196,7 +1196,7 @@
         <field title="alias">navDesign</field>
         <field title="title">Nav Design</field>
         <field title="description">Controls Nav Design.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:23:"tns-nav-design-m-bottom";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:20:"tns-nav-design-m-top";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:19:"tns-nav-design-m-vr";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:19:"tns-nav-design-m-vl";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:8:"tnav-m-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:8:"tnav-m-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:8:"tnav-m-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:8:"tnav-m-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -1211,7 +1211,7 @@
         <field title="title">Autoplay</field>
         <field title="description">Toggles the automatic change of slides.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1341,7 +1341,7 @@
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1417,7 +1417,7 @@
         <field title="title">Controls</field>
         <field title="description">Controls the display and functionalities of controls components &amp;#40;prev/next buttons/arrows&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1432,7 +1432,7 @@
         <field title="alias">controlsDesignL</field>
         <field title="title">Controls Design</field>
         <field title="description">Controls controls Design.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:27:"tns-controls-design-l-inner";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:27:"tns-controls-design-l-outer";s:5:"value";s:13:"Overlay Outer";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tbtn-l-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:10:"tbtn-l-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -1447,7 +1447,7 @@
         <field title="title">Nav</field>
         <field title="description">Controls the display and functionalities of nav components &amp;#40;dots&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1462,7 +1462,7 @@
         <field title="alias">navDesign</field>
         <field title="title">Nav Design</field>
         <field title="description">Controls Nav Design.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:23:"tns-nav-design-l-bottom";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:20:"tns-nav-design-l-top";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:19:"tns-nav-design-l-vr";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:19:"tns-nav-design-l-vl";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:8:"tnav-l-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:8:"tnav-l-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:8:"tnav-l-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:8:"tnav-l-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -1477,7 +1477,7 @@
         <field title="title">Autoplay</field>
         <field title="description">Toggles the automatic change of slides.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1607,7 +1607,7 @@
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
         <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1683,7 +1683,7 @@
         <field title="title">Controls</field>
         <field title="description">Controls the display and functionalities of controls components &amp;#40;prev/next buttons/arrows&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1698,7 +1698,7 @@
         <field title="alias">controlsDesignXL</field>
         <field title="title">Controls Design</field>
         <field title="description">Controls controls Design.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:28:"tns-controls-design-xl-inner";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:28:"tns-controls-design-xl-outer";s:5:"value";s:13:"Overlay Outer";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:10:"tbtn-xl-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:11:"tbtn-xl-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -1713,7 +1713,7 @@
         <field title="title">Nav</field>
         <field title="description">Controls the display and functionalities of nav components &amp;#40;dots&amp;#41;.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"true";s:5:"value";s:4:"Show";}i:1;a:2:{s:3:"key";s:5:"false";s:5:"value";s:4:"Hide";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1728,7 +1728,7 @@
         <field title="alias">navDesign</field>
         <field title="title">Nav Design</field>
         <field title="description">Controls Nav Design.</field>
-        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:24:"tns-nav-design-xl-bottom";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:21:"tns-nav-design-xl-top";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:20:"tns-nav-design-xl-vr";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:20:"tns-nav-design-xl-vl";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
+        <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:9:"tnav-xl-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:9:"tnav-xl-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:9:"tnav-xl-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:9:"tnav-xl-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -1743,7 +1743,7 @@
         <field title="title">Autoplay</field>
         <field title="description">Toggles the automatic change of slides.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
-        <field title="cssClass">seperator</field>
+        <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
