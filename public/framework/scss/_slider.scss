@@ -2,5 +2,7 @@
 @import "./_utils";
 
 // Styles
-@import "styles/tiny-slider";
-@import "styles/tiny-slider-design";
+@import "_base-tns";
+@import "_layout-tns";
+@import "_components-tns";
+@import "_overrides-tns";

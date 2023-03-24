@@ -1,0 +1,97 @@
+$tns-outset: divide($grid-gutter-width, 2);
+
+[class*="tbtn-"] {
+  --tbtn-pos:relative;
+
+  .tns-controls {
+    position: absolute;
+    inset: 0 var(--tbtn-pos-r) 0 var(--tbtn-pos-l);
+
+    margin-top: 0;
+    margin-bottom: 0;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    pointer-events: none;
+
+    button {
+      pointer-events: all;
+    }
+  }
+
+  .tns-outer {
+    position: var(--tbtn-pos);
+  }
+}
+
+[class*="tnav-"] {
+
+  .tns-nav {
+    position: absolute;
+    inset: var(--tnav-pos-t) var(--tnav-pos-r) var(--tnav-pos-b) var(--tnav-pos-l);
+
+    display: var(--tnav-dsp);
+    flex-direction: column;
+    justify-content: center;
+
+    margin: var(--tnav-m);
+
+    pointer-events: none;
+
+    button {
+      pointer-events: all;
+      margin: var(--tnav-b-m);
+    }
+  }
+}
+
+@include generate-infix-breakpoint-styles((
+  // Tns controls
+  '.tbtn': (
+    '&-in':  (
+      --tbtn-pos-r:0,
+      --tbtn-pos-l:0,
+      --tbtn-pos:relative
+    ),
+    '&-out': (
+      --tbtn-pos-r:-#{$tns-controls-outer-offset},
+      --tbtn-pos-l:-#{$tns-controls-outer-offset},
+      --tbtn-pos:revert
+    )
+  ),
+  // Tns navigation
+  '.tnav': (
+    '&-t':  (
+      --tnav-pos-t:0,
+      --tnav-pos-b:auto,
+    ),
+    '&-b':  (
+      --tnav-pos-t:auto,
+      --tnav-pos-b:0,
+    ),
+    '&-r':  (
+      --tnav-pos-r:0,
+      --tnav-pos-l:auto
+    ),
+    '&-l':  (
+      --tnav-pos-r:auto,
+      --tnav-pos-l:0,
+    ),
+    '&-t,&-b': (
+      --tnav-b-m:0 #{$tns-dot-spacing},
+      --tnav-m:#{$tns-outset} 0,
+      --tnav-dsp:block,
+      --tnav-pos-r:0,
+      --tnav-pos-l:0
+    ),
+    '&-r,&-l': (
+      --tnav-b-m:#{$tns-dot-spacing} 0,
+      --tnav-m:0 #{$tns-outset},
+      --tnav-dsp:flex,
+      --tnav-pos-t:0,
+      --tnav-pos-b:0,
+    )
+  )
+));

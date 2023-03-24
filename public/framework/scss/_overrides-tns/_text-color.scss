@@ -1,0 +1,25 @@
+.color-text {
+
+  &-inv {
+    --tnav-1:#{$tns-color-regular-invert};
+    --tnav-1-a:#{$tns-active-color-regular-invert};
+    --tbtn-1:#{$tns-color-regular-invert};
+    --tbtn-1-a:#{$tns-active-color-regular-invert};
+    --tbtn-1-clr:#{$tns-color-regular};
+    --tbtn-1-clr-a:#{$tns-active-color-regular};
+
+    --tnav-2:#{$tns-color-primary-invert};
+    --tnav-2-a:#{$tns-active-color-primary-invert};
+    --tbtn-2:#{$tns-color-primary-invert};
+    --tbtn-2-a:#{$tns-active-color-primary-invert};
+    --tbtn-2-clr:#{$tns-color-primary};
+    --tbtn-2-clr-a:#{$tns-active-color-primary};
+
+    --tnav-3:#{$tns-color-secondary-invert};
+    --tnav-3-a:#{$tns-active-color-secondary-invert};
+    --tbtn-3:#{$tns-color-secondary-invert};
+    --tbtn-3-a:#{$tns-active-color-secondary-invert};
+    --tbtn-3-clr:#{$tns-color-secondary};
+    --tbtn-3-clr-a:#{$tns-active-color-secondary};
+  }
+}

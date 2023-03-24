@@ -1,11 +1,22 @@
-// Tiny Slider
-$tns-dot-size:                        12px !default;
-$tns-dot-spacing:                     5px !default;
-$tns-controls-outer-offset:           100px !default;
+// Nav
+$tns-dot-size:                      12px !default;
+$tns-dot-spacing:                   5px !default;
 
-$tns-color-regular:                   rgba(0,0,0,.6) !default;
-$tns-color-regular-active:            rgba(0,0,0,1) !default;
-$tns-color-invert:                    rgba(255,255,255,.6) !default;
-$tns-color-invert-active:             rgba(255,255,255,1) !default;
-$tns-color-extra:                     rgba($primary,.6) !default;
-$tns-color-extra-active:              rgba($primary,1) !default;
+// Controls
+$tns-controls-outer-offset:         100px !default;
+
+// Colors
+$tns-color-regular:                 rgba(0,0,0,.6) !default;
+$tns-active-color-regular:          rgba(0,0,0,1) !default;
+$tns-color-regular-invert:          rgba(255,255,255,.6) !default;
+$tns-active-color-regular-invert:   rgba(255,255,255,1) !default;
+
+$tns-color-primary:                 rgba(var(--clr-primary-rgb),.6) !default;
+$tns-active-color-primary:          rgba(var(--clr-primary-rgb),1) !default;
+$tns-color-primary-invert:          rgba(255,255,255,.6) !default;
+$tns-active-color-primary-invert:   rgba(255,255,255,1) !default;
+
+$tns-color-secondary:               rgba(var(--clr-secondary-rgb),.6) !default;
+$tns-active-color-secondary:        rgba(var(--clr-secondary-rgb),1) !default;
+$tns-color-secondary-invert:        rgba(255,255,255,.6) !default;
+$tns-active-color-secondary-invert: rgba(255,255,255,1) !default;

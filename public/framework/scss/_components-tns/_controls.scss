@@ -1,0 +1,31 @@
+.tns-controls {
+  outline: 0 none;
+
+  > button {
+    outline: 0 none;
+    border: 0 none;
+
+    background: var(--tbtn);
+    color: var(--tbtn-clr);
+
+    &:hover {
+      background: var(--tbtn-a);
+      color: var(--tbtn-clr-a);
+    }
+  }
+
+  // Colors
+  &-2 {
+    --tbtn:var(--tbtn-2);
+    --tbtn-a:var(--tbtn-2-a);
+    --tbtn-clr:var(--tbtn-2-clr);
+    --tbtn-clr-a:var(--tbtn-2-clr-a);
+  }
+
+  &-3 {
+    --tbtn:var(--tbtn-3);
+    --tbtn-a:var(--tbtn-3-a);
+    --tbtn-clr:var(--tbtn-3-clr);
+    --tbtn-clr-a:var(--tbtn-3-clr-a);
+  }
+}
