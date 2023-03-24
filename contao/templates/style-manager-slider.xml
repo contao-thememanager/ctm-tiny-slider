@@ -28,7 +28,7 @@
         <field title="alias">navColor</field>
         <field title="title">Nav Color</field>
         <field title="description">Here you can define the color of the navigation &amp;#40;dots&amp;#41;.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tns-nav-2";s:5:"value";s:7:"Primary";}i:1;a:2:{s:3:"key";s:9:"tns-nav-3";s:5:"value";s:9:"Secondary";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"tn-2";s:5:"value";s:7:"Primary";}i:1;a:2:{s:3:"key";s:4:"tn-3";s:5:"value";s:9:"Secondary";}}</field>
         <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -43,7 +43,7 @@
         <field title="alias">controlsColor</field>
         <field title="title">Controls Color</field>
         <field title="description">Here you can define the color of the controls &amp;#40;arrows&amp;#41;.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:14:"tns-controls-2";s:5:"value";s:7:"Primary";}i:1;a:2:{s:3:"key";s:14:"tns-controls-3";s:5:"value";s:9:"Secondary";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:4:"tb-2";s:5:"value";s:7:"Primary";}i:1;a:2:{s:3:"key";s:4:"tb-3";s:5:"value";s:9:"Secondary";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>

@@ -1,31 +1,34 @@
 .tns-controls {
   outline: 0 none;
 
-  > button {
+  button {
     outline: 0 none;
-    border: 0 none;
+    border:  0 none;
 
-    background: var(--tbtn);
-    color: var(--tbtn-clr);
+    background: var(--tb);
+    color:      var(--tb-c);
 
     &:hover {
-      background: var(--tbtn-a);
-      color: var(--tbtn-clr-a);
+      background: var(--tb-a);
+      color:      var(--tb-c-a);
     }
   }
+}
 
-  // Colors
+// Colors
+.tb {
+
   &-2 {
-    --tbtn:var(--tbtn-2);
-    --tbtn-a:var(--tbtn-2-a);
-    --tbtn-clr:var(--tbtn-2-clr);
-    --tbtn-clr-a:var(--tbtn-2-clr-a);
+    --tb:var(--tb-2);
+    --tb-a:var(--tb-2-a);
+    --tb-c:var(--tb-2-c);
+    --tb-c-a:var(--tb-2-c-a);
   }
 
   &-3 {
-    --tbtn:var(--tbtn-3);
-    --tbtn-a:var(--tbtn-3-a);
-    --tbtn-clr:var(--tbtn-3-clr);
-    --tbtn-clr-a:var(--tbtn-3-clr-a);
+    --tb:var(--tb-3);
+    --tb-a:var(--tb-3-a);
+    --tb-c:var(--tb-3-c);
+    --tb-c-a:var(--tb-3-c-a);
   }
 }

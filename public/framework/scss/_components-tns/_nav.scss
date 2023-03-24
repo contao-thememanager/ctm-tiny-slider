@@ -1,7 +1,7 @@
 .tns-nav {
   text-align: center;
 
-  > button {
+  button {
     display: inline-block;
 
     width:  $tns-dot-size;
@@ -10,25 +10,30 @@
     padding: 0;
     margin: 0 $tns-dot-spacing;
 
+    border-radius: 50%;
+
     outline: 0 none;
     border: 0 none;
-    border-radius: 50%;
-    background: var(--tnav);
+
+    background: var(--tn);
 
     &.tns-nav-active,
     &:hover {
-      background: var(--tnav-a);
+      background: var(--tn-a);
     }
   }
+}
 
-  // Colors
+// Colors
+.tn {
+
   &-2 {
-    --tnav:var(--tnav-2);
-    --tnav-a:var(--tnav-2-a);
+    --tn:var(--tn-2);
+    --tn-a:var(--tn-2-a);
   }
 
   &-3 {
-    --tnav:var(--tnav-3);
-    --tnav-a:var(--tnav-3-a);
+    --tn:var(--tn-3);
+    --tn-a:var(--tn-3-a);
   }
 }

@@ -1,22 +1,22 @@
 :root, .color-text-base {
-  --tnav-1:#{$tns-color-regular};
-  --tnav-1-a:#{$tns-active-color-regular};
-  --tbtn-1:#{$tns-color-regular};
-  --tbtn-1-a:#{$tns-active-color-regular};
-  --tbtn-1-clr:#{$tns-color-regular-invert};
-  --tbtn-1-clr-a:#{$tns-active-color-regular-invert};
+  --tn-1:#{$tns-color-regular};
+  --tn-1-a:#{$tns-active-color-regular};
+  --tb-1:#{$tns-color-regular};
+  --tb-1-a:#{$tns-active-color-regular};
+  --tb-1-c:#{$tns-color-regular-invert};
+  --tb-1-c-a:#{$tns-active-color-regular-invert};
 
-  --tnav-2:#{$tns-color-primary};
-  --tnav-2-a:#{$tns-active-color-primary};
-  --tbtn-2:#{$tns-color-primary};
-  --tbtn-2-a:#{$tns-active-color-primary};
-  --tbtn-2-clr:#{$tns-color-primary-invert};
-  --tbtn-2-clr-a:#{$tns-active-color-primary-invert};
+  --tn-2:#{$tns-color-primary};
+  --tn-2-a:#{$tns-active-color-primary};
+  --tb-2:#{$tns-color-primary};
+  --tb-2-a:#{$tns-active-color-primary};
+  --tb-2-c:#{$tns-color-primary-invert};
+  --tb-2-c-a:#{$tns-active-color-primary-invert};
 
-  --tnav-3:#{$tns-color-secondary};
-  --tnav-3-a:#{$tns-active-color-secondary};
-  --tbtn-3:#{$tns-color-secondary};
-  --tbtn-3-a:#{$tns-active-color-secondary};
-  --tbtn-3-clr:#{$tns-color-secondary-invert};
-  --tbtn-3-clr-a:#{$tns-active-color-secondary-invert};
+  --tn-3:#{$tns-color-secondary};
+  --tn-3-a:#{$tns-active-color-secondary};
+  --tb-3:#{$tns-color-secondary};
+  --tb-3-a:#{$tns-active-color-secondary};
+  --tb-3-c:#{$tns-color-secondary-invert};
+  --tb-3-c-a:#{$tns-active-color-secondary-invert};
 }

@@ -2,10 +2,12 @@
   margin: var(--i-gtr);
   overflow: visible;
 
-  .box &,
-  .ce_wrapper &{
-    margin: 0;
-  }
+  // Reset margin within box and wrapper elements
+  .box &, .ce_wrapper & { margin: 0; }
+}
+
+.tns-outer {
+  position: relative;
 }
 
 .tns-nav,
@@ -13,29 +15,44 @@
   z-index: 1;
   margin: $grid-gutter-bottom var(--i-gtr) var(--i-gtr);
 
+  pointer-events: none;
+
+  button {
+    pointer-events: all;
+  }
+
   .box & {
     margin: $grid-gutter-bottom 0 var(--i-gtr);
   }
+
+  // Switch margin when position top has been chosen (first or second child)
+  &:nth-child(-n+2) {
+    margin: var(--i-gtr) 0 $grid-gutter-bottom;
+  }
 }
 
-.tns-outer {
-  position: relative;
+.tns-slider {
 
-  > div:nth-child(-n+2) {
-    &.tns-nav,
-    &.tns-controls {
-      margin: var(--i-gtr) 0 $grid-gutter-bottom;
-    }
+  &.grid-list {--v-gap:0rem;--h-gap:0rem;}
+
+  .tns-item {
+    -webkit-user-select: none;
+    user-select: none;
+    outline: 0 none;
+  }
+
+  img {
+    -webkit-user-drag: none;
   }
 }
 
 .init-slider {
-  --tnav:var(--tnav-1);
-  --tnav-a:var(--tnav-1-a);
-  --tbtn:var(--tbtn-1);
-  --tbtn-a:var(--tbtn-1-a);
-  --tbtn-clr:var(--tbtn-1-clr);
-  --tbtn-clr-a:var(--tbtn-1-clr-a);
+  --tn:var(--tn-1);
+  --tn-a:var(--tn-1-a);
+  --tb:var(--tb-1);
+  --tb-a:var(--tb-1-a);
+  --tb-c:var(--tb-1-c);
+  --tb-c-a:var(--tb-1-c-a);
   position: relative;
 
   > .inside {
@@ -47,36 +64,6 @@
     }
   }
 
-  .item {
-    outline: 0 none;
-  }
-
-
-  &.box {
-
-    > .inside {
-      margin: 0;
-    }
-  }
-
-  &.ce_wrapper {
-    overflow: hidden;
-  }
-}
-
-.tns-slider {
-
-  &.grid-list {
-    --v-gap: 0rem;
-    --h-gap: 0rem;
-  }
-
-  .tns-item {
-    -webkit-user-select: none;
-    user-select: none;
-  }
-
-  img {
-    -webkit-user-drag: none;
-  }
+  &.box > .inside { margin: 0; }
+  &.ce_wrapper    { overflow: hidden; }
 }
