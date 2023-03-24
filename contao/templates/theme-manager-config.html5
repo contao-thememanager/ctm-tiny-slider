@@ -1,76 +1,66 @@
-<?php
-return array(
-    'palettes' => array(
-        'default'  => '{tns_legend:hide},tns-dot-size,tns-dot-spacing,tns-controls-outer-offset,tns-color-regular,tns-color-regular-active,tns-color-invert,tns-color-invert-active,tns-color-extra,tns-color-extra-active;'
-    ),
-    'fields'   => array(
+<?php return [
+    'palettes' => [
+        'default'  => '{tns_legend:hide},tns-dot-size,tns-dot-spacing,tns-controls-outer-offset,tns-color-regular,tns-color-invert,tns-color-extra,tns-color-regular-active,tns-color-invert-active,tns-color-extra-active;'
+    ],
+    'fields'   => [
         // Tiny Slider
-        'tns-dot-size' => array
-        (
+        'tns-dot-size' => [
             'default'                 => 'a:2:{s:4:"unit";s:2:"px";s:5:"value";s:2:"12";}',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-dot-size'],
             'inputType'               => 'inputUnit',
             'options'                 => $GLOBALS['TL_CSS_UNITS'],
-            'eval'                    => array('placeholder'=>'12px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 32, 'tl_class'=>'w50'),
-        ),
-        'tns-dot-spacing' => array
-        (
+            'eval'                    => ['placeholder'=>'12px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 32, 'tl_class'=>'w33 clr'],
+        ],
+        'tns-dot-spacing' => [
             'default'                 => 'a:2:{s:4:"unit";s:2:"px";s:5:"value";s:1:"5";}',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-dot-spacing'],
             'inputType'               => 'inputUnit',
             'options'                 => $GLOBALS['TL_CSS_UNITS'],
-            'eval'                    => array('placeholder'=>'5px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 32, 'tl_class'=>'w50'),
-        ),
-        'tns-controls-outer-offset' => array
-        (
+            'eval'                    => ['placeholder'=>'5px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 32, 'tl_class'=>'w33'],
+        ],
+        'tns-controls-outer-offset' => [
             'default'                 => 'a:2:{s:4:"unit";s:2:"px";s:5:"value";s:3:"100";}',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-controls-outer-offset'],
             'inputType'               => 'inputUnit',
             'options'                 => $GLOBALS['TL_CSS_UNITS'],
-            'eval'                    => array('placeholder'=>'100px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 32, 'tl_class'=>'w50'),
-        ),
+            'eval'                    => ['placeholder'=>'100px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength' => 32, 'tl_class'=>'w33'],
+        ],
 
-        'tns-color-regular' => array
-        (
+        'tns-color-regular' => [
             'default'                 => 'rgba(0,0,0,.6)',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular'],
             'inputType'               => 'text',
-            'eval'                    => array('placeholder'=>'rgba(0,0,0,.6)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 clr wizard'),
-        ),
-        'tns-color-regular-active' => array
-        (
-            'default'                 => 'rgba(0,0,0,1)',
-            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular-active'],
-            'inputType'               => 'text',
-            'eval'                    => array('placeholder'=>'rgba(0,0,0,1)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
-        ),
-        'tns-color-invert' => array
-        (
+            'eval'                    => ['placeholder'=>'rgba(0,0,0,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 clr wizard'],
+        ],
+        'tns-color-invert' => [
             'default'                 => 'rgba(255,255,255,.6)',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-invert'],
             'inputType'               => 'text',
-            'eval'                    => array('placeholder'=>'rgba(255,255,255,.6)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
-        ),
-        'tns-color-invert-active' => array
-        (
-            'default'                 => 'rgba(255,255,255,1)',
-            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-invert-active'],
-            'inputType'               => 'text',
-            'eval'                    => array('placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
-        ),
-        'tns-color-extra' => array
-        (
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
+        ],
+        'tns-color-extra' => [
             'default'                 => 'rgba($primary,.6)',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-extra'],
             'inputType'               => 'text',
-            'eval'                    => array('placeholder'=>'rgba($primary,.6)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
-        ),
-        'tns-color-extra-active' => array
-        (
+            'eval'                    => ['placeholder'=>'rgba($primary,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
+        ],
+        'tns-color-regular-active' => [
+            'default'                 => 'rgba(0,0,0,1)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular-active'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(0,0,0,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 clr wizard'],
+        ],
+        'tns-color-invert-active' => [
+            'default'                 => 'rgba(255,255,255,1)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-invert-active'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
+        ],
+        'tns-color-extra-active' => [
             'default'                 => 'rgba($primary,1)',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-extra-active'],
             'inputType'               => 'text',
-            'eval'                    => array('placeholder'=>'rgba($primary,1)', 'maxlength'=>64, 'multiple'=>true, 'size'=>2, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w50 wizard'),
-        )
-    )
-);
+            'eval'                    => ['placeholder'=>'rgba($primary,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
+        ]
+    ]
+];
