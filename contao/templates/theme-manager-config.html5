@@ -1,6 +1,11 @@
 <?php return [
     'palettes' => [
-        'default'  => '{tns_legend:hide},tns-dot-size,tns-dot-spacing,tns-controls-outer-offset,tns-color-regular,tns-color-invert,tns-color-extra,tns-color-regular-active,tns-color-invert-active,tns-color-extra-active;'
+        'default'  => '{tns_legend:hide},
+            tns-dot-size,tns-dot-spacing,tns-controls-outer-offset,
+            tns-color-regular,tns-active-color-regular,tns-color-regular-invert,tns-active-color-regular-invert,
+            tns-color-primary,tns-active-color-primary,tns-color-primary-invert,tns-active-color-primary-invert,
+            tns-color-secondary,tns-active-color-secondary,tns-color-secondary-invert,tns-active-color-secondary-invert
+        ;'
     ],
     'fields'   => [
         // Tiny Slider
@@ -30,37 +35,75 @@
             'default'                 => 'rgba(0,0,0,.6)',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular'],
             'inputType'               => 'text',
-            'eval'                    => ['placeholder'=>'rgba(0,0,0,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 clr wizard'],
+            'eval'                    => ['placeholder'=>'rgba(0,0,0,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 clr wizard'],
         ],
-        'tns-color-invert' => [
-            'default'                 => 'rgba(255,255,255,.6)',
-            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-invert'],
-            'inputType'               => 'text',
-            'eval'                    => ['placeholder'=>'rgba(255,255,255,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
-        ],
-        'tns-color-extra' => [
-            'default'                 => 'rgba($primary,.6)',
-            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-extra'],
-            'inputType'               => 'text',
-            'eval'                    => ['placeholder'=>'rgba($primary,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
-        ],
-        'tns-color-regular-active' => [
+        'tns-active-color-regular' => [
             'default'                 => 'rgba(0,0,0,1)',
-            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular-active'],
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-active-color-regular'],
             'inputType'               => 'text',
-            'eval'                    => ['placeholder'=>'rgba(0,0,0,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 clr wizard'],
+            'eval'                    => ['placeholder'=>'rgba(0,0,0,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
         ],
-        'tns-color-invert-active' => [
+        'tns-color-regular-invert' => [
+            'default'                 => 'rgba(255,255,255,.6)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-regular-invert'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
+        ],
+        'tns-active-color-regular-invert' => [
             'default'                 => 'rgba(255,255,255,1)',
-            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-invert-active'],
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-active-color-regular-invert'],
             'inputType'               => 'text',
-            'eval'                    => ['placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
         ],
-        'tns-color-extra-active' => [
-            'default'                 => 'rgba($primary,1)',
-            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-extra-active'],
+
+        'tns-color-primary' => [
+            'default'                 => 'rgba(var(--clr-primary-rgb),.6)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-primary'],
             'inputType'               => 'text',
-            'eval'                    => ['placeholder'=>'rgba($primary,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w33 wizard'],
+            'eval'                    => ['placeholder'=>'rgba(var(--clr-primary-rgb),.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 clr wizard'],
+        ],
+        'tns-active-color-primary' => [
+            'default'                 => 'rgba(var(--clr-primary-rgb),1)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-active-color-primary'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(var(--clr-primary-rgb),1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
+        ],
+        'tns-color-primary-invert' => [
+            'default'                 => 'rgba(255,255,255,.6)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-primary-invert'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
+        ],
+        'tns-active-color-primary-invert' => [
+            'default'                 => 'rgba(255,255,255,1)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-active-color-primary-invert'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
+        ],
+
+        'tns-color-secondary' => [
+            'default'                 => 'rgba(var(--clr-secondary-rgb),.6)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-secondary'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(var(--clr-secondary-rgb),.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 clr wizard'],
+        ],
+        'tns-active-color-secondary' => [
+            'default'                 => 'rgba(var(--clr-secondary-rgb),1)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-active-color-secondary'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(var(--clr-secondary-rgb),1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
+        ],
+        'tns-color-secondary-invert' => [
+            'default'                 => 'rgba(255,255,255,.6)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-color-secondary-invert'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,.6)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
+        ],
+        'tns-active-color-secondary-invert' => [
+            'default'                 => 'rgba(255,255,255,1)',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-active-color-secondary-invert'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>64, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
         ]
     ]
 ];
