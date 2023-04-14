@@ -150,13 +150,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10020</field>
+        <field title="sorting">690</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10020</field>
         <field title="sorting">700</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -491,13 +506,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10030</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10030</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -757,13 +787,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10040</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10040</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1023,13 +1068,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10050</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10050</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1289,13 +1349,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10060</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10060</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1555,13 +1630,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10070</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10070</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
