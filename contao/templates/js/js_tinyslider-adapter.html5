@@ -72,6 +72,7 @@
             navPosition: 'bottom',
             autoplayPosition: 'bottom',
             gutter: 0,
+            preventScrollOnTouch: 'auto',
             controlsText: [
                 '<span class="prev">prev</span>',
                 '<span class="next">next</span>'
