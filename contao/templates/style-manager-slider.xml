@@ -150,13 +150,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10020</field>
+        <field title="sorting">690</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10020</field>
         <field title="sorting">700</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -307,7 +322,7 @@
         <field title="sorting">1700</field>
         <field title="alias">controlsPosition</field>
         <field title="title">Controls Position</field>
-        <field title="description">Controls controls position.</field>
+        <field title="description">Here you can change the controls position in the Dom.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:3:"top";s:5:"value";s:3:"Top";}i:1;a:2:{s:3:"key";s:6:"bottom";s:5:"value";s:6:"Bottom";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -317,12 +332,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="controlsDesign">
+      <child alias="controlsBehavior">
         <field title="pid">10020</field>
         <field title="sorting">1800</field>
-        <field title="alias">controlsDesign</field>
-        <field title="title">Controls Design</field>
-        <field title="description">Controls controls Design.</field>
+        <field title="alias">controlsBehavior</field>
+        <field title="title">Controls Behavior</field>
+        <field title="description">Here you can choose how the controls should behave.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"tbtn-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:8:"tbtn-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -352,7 +367,7 @@
         <field title="sorting">2000</field>
         <field title="alias">navPosition</field>
         <field title="title">Nav Position</field>
-        <field title="description">Controls nav position.</field>
+        <field title="description">Here you can change the nav position in the Dom.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:3:"top";s:5:"value";s:3:"Top";}i:1;a:2:{s:3:"key";s:6:"bottom";s:5:"value";s:6:"Bottom";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -362,12 +377,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="navDesign">
+      <child alias="navBehavior">
         <field title="pid">10020</field>
         <field title="sorting">2100</field>
-        <field title="alias">navDesign</field>
-        <field title="title">Nav Design</field>
-        <field title="description">Controls Nav Design.</field>
+        <field title="alias">navBehavior</field>
+        <field title="title">Nav Behavior</field>
+        <field title="description">Controls Here you can choose how the nav buttons should behave.</field>
         <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:6:"tnav-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:6:"tnav-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:6:"tnav-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:6:"tnav-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -491,13 +506,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10030</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10030</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -628,12 +658,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="controlsDesignXS">
+      <child alias="controlsBehavior">
         <field title="pid">10030</field>
         <field title="sorting">1200</field>
-        <field title="alias">controlsDesignXS</field>
-        <field title="title">Controls Design</field>
-        <field title="description">Controls controls Design.</field>
+        <field title="alias">controlsBehavior</field>
+        <field title="title">Controls Behavior</field>
+        <field title="description">Here you can choose how the controls should behave.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:10:"tbtn-xs-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:11:"tbtn-xs-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -658,12 +688,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="navDesign">
+      <child alias="navBehavior">
         <field title="pid">10030</field>
         <field title="sorting">1400</field>
-        <field title="alias">navDesign</field>
-        <field title="title">Nav Design</field>
-        <field title="description">Controls Nav Design.</field>
+        <field title="alias">navBehavior</field>
+        <field title="title">Nav Behavior</field>
+        <field title="description">Controls Here you can choose how the nav buttons should behave.</field>
         <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:9:"tnav-xs-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:9:"tnav-xs-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:9:"tnav-xs-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:9:"tnav-xs-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -757,13 +787,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10040</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10040</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -894,12 +939,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="controlsDesignS">
+      <child alias="controlsBehavior">
         <field title="pid">10040</field>
         <field title="sorting">1200</field>
-        <field title="alias">controlsDesignS</field>
-        <field title="title">Controls Design</field>
-        <field title="description">Controls controls Design.</field>
+        <field title="alias">controlsBehavior</field>
+        <field title="title">Controls Behavior</field>
+        <field title="description">Here you can choose how the controls should behave.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tbtn-s-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:10:"tbtn-s-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -924,12 +969,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="navDesign">
+      <child alias="navBehavior">
         <field title="pid">10040</field>
         <field title="sorting">1400</field>
-        <field title="alias">navDesign</field>
-        <field title="title">Nav Design</field>
-        <field title="description">Controls Nav Design.</field>
+        <field title="alias">navBehavior</field>
+        <field title="title">Nav Behavior</field>
+        <field title="description">Controls Here you can choose how the nav buttons should behave.</field>
         <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:8:"tnav-s-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:8:"tnav-s-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:8:"tnav-s-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:8:"tnav-s-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1023,13 +1068,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10050</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10050</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1160,12 +1220,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="controlsDesignM">
+      <child alias="controlsBehavior">
         <field title="pid">10050</field>
         <field title="sorting">1200</field>
-        <field title="alias">controlsDesignM</field>
-        <field title="title">Controls Design</field>
-        <field title="description">Controls controls Design.</field>
+        <field title="alias">controlsBehavior</field>
+        <field title="title">Controls Behavior</field>
+        <field title="description">Here you can choose how the controls should behave.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tbtn-m-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:10:"tbtn-m-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1190,12 +1250,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="navDesign">
+      <child alias="navBehavior">
         <field title="pid">10050</field>
         <field title="sorting">1400</field>
-        <field title="alias">navDesign</field>
-        <field title="title">Nav Design</field>
-        <field title="description">Controls Nav Design.</field>
+        <field title="alias">navBehavior</field>
+        <field title="title">Nav Behavior</field>
+        <field title="description">Controls Here you can choose how the nav buttons should behave.</field>
         <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:8:"tnav-m-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:8:"tnav-m-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:8:"tnav-m-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:8:"tnav-m-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1289,13 +1349,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10060</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10060</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1426,12 +1501,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="controlsDesignL">
+      <child alias="controlsBehavior">
         <field title="pid">10060</field>
         <field title="sorting">1200</field>
-        <field title="alias">controlsDesignL</field>
-        <field title="title">Controls Design</field>
-        <field title="description">Controls controls Design.</field>
+        <field title="alias">controlsBehavior</field>
+        <field title="title">Controls Behavior</field>
+        <field title="description">Here you can choose how the controls should behave.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:9:"tbtn-l-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:10:"tbtn-l-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1456,12 +1531,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="navDesign">
+      <child alias="navBehavior">
         <field title="pid">10060</field>
         <field title="sorting">1400</field>
-        <field title="alias">navDesign</field>
-        <field title="title">Nav Design</field>
-        <field title="description">Controls Nav Design.</field>
+        <field title="alias">navBehavior</field>
+        <field title="title">Nav Behavior</field>
+        <field title="description">Controls Here you can choose how the nav buttons should behave.</field>
         <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:8:"tnav-l-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:8:"tnav-l-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:8:"tnav-l-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:8:"tnav-l-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1555,13 +1630,28 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="touch">
+        <field title="pid">10070</field>
+        <field title="sorting">290</field>
+        <field title="alias">touch</field>
+        <field title="title">Touch</field>
+        <field title="description">Activates input detection for touch devices.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="chosen">1</field>
+        <field title="blankOption">1</field>
+        <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:6:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:17:"wrapperStartBoxed";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="mouseDrag">
         <field title="pid">10070</field>
         <field title="sorting">300</field>
         <field title="alias">mouseDrag</field>
         <field title="title">Mouse Drag</field>
         <field title="description">Changing slides by dragging them.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inaktive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"false";s:5:"value";s:8:"Inactive";}i:1;a:2:{s:3:"key";s:4:"true";s:5:"value";s:6:"Active";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1692,12 +1782,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="controlsDesignXL">
+      <child alias="controlsBehavior">
         <field title="pid">10070</field>
         <field title="sorting">1200</field>
-        <field title="alias">controlsDesignXL</field>
-        <field title="title">Controls Design</field>
-        <field title="description">Controls controls Design.</field>
+        <field title="alias">controlsBehavior</field>
+        <field title="title">Controls Behavior</field>
+        <field title="description">Here you can choose how the controls should behave.</field>
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:10:"tbtn-xl-in";s:5:"value";s:13:"Overlay Inner";}i:1;a:2:{s:3:"key";s:11:"tbtn-xl-out";s:5:"value";s:13:"Overlay Outer";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1722,12 +1812,12 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
-      <child alias="navDesign">
+      <child alias="navBehavior">
         <field title="pid">10070</field>
         <field title="sorting">1400</field>
-        <field title="alias">navDesign</field>
-        <field title="title">Nav Design</field>
-        <field title="description">Controls Nav Design.</field>
+        <field title="alias">navBehavior</field>
+        <field title="title">Nav Behavior</field>
+        <field title="description">Controls Here you can choose how the nav buttons should behave.</field>
         <field title="cssClasses">a:4:{i:0;a:2:{s:3:"key";s:9:"tnav-xl-b";s:5:"value";s:14:"Overlay Bottom";}i:1;a:2:{s:3:"key";s:9:"tnav-xl-t";s:5:"value";s:11:"Overlay Top";}i:2;a:2:{s:3:"key";s:9:"tnav-xl-r";s:5:"value";s:22:"Overlay Vertical Right";}i:3;a:2:{s:3:"key";s:9:"tnav-xl-l";s:5:"value";s:21:"Overlay Vertical Left";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
