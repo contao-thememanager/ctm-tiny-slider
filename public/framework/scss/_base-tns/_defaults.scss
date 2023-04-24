@@ -2,8 +2,8 @@
   margin: var(--i-gtr);
   overflow: visible;
 
-  // Reset margin within box and wrapper elements
-  .box &, .ce_wrapper & { margin: 0; }
+  // Reset margin within box elements
+  .box & { margin: 0; }
 }
 
 .tns-outer {
@@ -55,15 +55,15 @@
   --tb-c-a:var(--tb-1-c-a);
   position: relative;
 
-  > .inside {
+  > .inside,
+  > .tns-outer {
     overflow: hidden;
     margin: calc(var(--i-gtr) * -1);
+  }
 
-    > .c_headline {
-      padding: var(--i-gtr) var(--i-gtr) 0;
-    }
+  > .inside > .c_headline {
+    padding: var(--i-gtr) var(--i-gtr) 0;
   }
 
   &.box > .inside { margin: 0; }
-  &.ce_wrapper    { overflow: hidden; }
 }
