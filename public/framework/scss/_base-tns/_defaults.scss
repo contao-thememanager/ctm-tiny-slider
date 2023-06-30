@@ -1,14 +1,13 @@
-.tns-outer {
-  --t-gtr: calc(var(--gtr-x) * .5);
-  position: relative;
-}
-
 .tns-ovh {
   margin: var(--t-gtr);
   overflow: visible;
 
   // Reset margin within box elements
   .box & { margin: 0; }
+}
+
+.tns-outer {
+  position: relative;
 }
 
 .tns-nav,

@@ -1,4 +1,5 @@
 :root, .color-text-base {
+  --t-gtr: calc(var(--gtr-x) * .5);
   --tn-1:#{$tns-color-regular};
   --tn-1-a:#{$tns-active-color-regular};
   --tb-1:#{$tns-color-regular};
