@@ -1,19 +1,20 @@
+.tns-outer {
+  --t-gtr: calc(var(--gtr-x) * .5);
+  position: relative;
+}
+
 .tns-ovh {
-  margin: var(--i-gtr);
+  margin: var(--t-gtr);
   overflow: visible;
 
   // Reset margin within box elements
   .box & { margin: 0; }
 }
 
-.tns-outer {
-  position: relative;
-}
-
 .tns-nav,
 .tns-controls {
   z-index: 1;
-  margin: $grid-gutter-bottom var(--i-gtr) var(--i-gtr);
+  margin: $grid-gutter-bottom var(--t-gtr) var(--t-gtr);
 
   pointer-events: none;
 
@@ -22,12 +23,12 @@
   }
 
   .box & {
-    margin: $grid-gutter-bottom 0 var(--i-gtr);
+    margin: $grid-gutter-bottom 0 var(--t-gtr);
   }
 
   // Switch margin when position top has been chosen (first or second child)
   &:nth-child(-n+2) {
-    margin: var(--i-gtr) 0 $grid-gutter-bottom;
+    margin: var(--t-gtr) 0 $grid-gutter-bottom;
   }
 }
 
@@ -58,11 +59,11 @@
   > .inside,
   > .tns-outer {
     overflow: hidden;
-    margin: calc(var(--i-gtr) * -1);
+    margin: calc(var(--t-gtr) * -1);
   }
 
   > .inside > .c_headline {
-    padding: var(--i-gtr) var(--i-gtr) 0;
+    padding: var(--t-gtr) var(--t-gtr) 0;
   }
 
   &.box > .inside { margin: 0; }
