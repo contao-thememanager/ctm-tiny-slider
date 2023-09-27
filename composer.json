@@ -4,7 +4,6 @@
   "description": "Tiny Slider integration for Contao Theme-Manager",
   "keywords": ["slider", "theme"],
   "homepage": "https://www.oveleon.de/",
-  "license": "MIT",
   "authors": [
     {
       "name": "Oveleon",
