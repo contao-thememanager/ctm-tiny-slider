@@ -1,11 +1,11 @@
 <?php return [
     'palettes' => [
-        'default'  => '{tns_legend:hide},
-            tns-dot-size,tns-dot-spacing,tns-controls-outer-offset,
-            tns-color-regular,tns-active-color-regular,tns-color-regular-invert,tns-active-color-regular-invert,
-            tns-color-primary,tns-active-color-primary,tns-color-primary-invert,tns-active-color-primary-invert,
-            tns-color-secondary,tns-active-color-secondary,tns-color-secondary-invert,tns-active-color-secondary-invert
-        ;'
+        'default' =>
+            '{tns_dots_legend:hide ctm-group palette-group[tns_header]},tns-dot-size,tns-dot-spacing;' .
+            '{tns_controls_legend:hide ctm-group},tns-controls-outer-offset;' .
+            '{tns_colors_legend_regular:hide ctm-group},tns-color-regular,tns-active-color-regular,tns-color-regular-invert,tns-active-color-regular-invert;' .
+            '{tns_colors_legend_primary:hide ctm-group},tns-color-primary,tns-active-color-primary,tns-color-primary-invert,tns-active-color-primary-invert;' .
+            '{tns_colors_legend_secondary:hide},tns-color-secondary,tns-active-color-secondary,tns-color-secondary-invert,tns-active-color-secondary-invert;'
     ],
     'fields'   => [
         // Tiny Slider
@@ -14,21 +14,21 @@
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-dot-size'],
             'inputType'               => 'inputUnit',
             'options'                 => $GLOBALS['CTM_CSS_UNITS'],
-            'eval'                    => ['placeholder'=>'12px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength'=>255, 'tl_class'=>'w33 clr'],
+            'eval'                    => ['placeholder'=>'12px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength'=>255, 'tl_class'=>'w50 clr'],
         ],
         'tns-dot-spacing' => [
             'default'                 => 'a:2:{s:4:"unit";s:2:"px";s:5:"value";s:1:"5";}',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-dot-spacing'],
             'inputType'               => 'inputUnit',
             'options'                 => $GLOBALS['CTM_CSS_UNITS'],
-            'eval'                    => ['placeholder'=>'5px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength'=>255, 'tl_class'=>'w33'],
+            'eval'                    => ['placeholder'=>'5px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength'=>255, 'tl_class'=>'w50'],
         ],
         'tns-controls-outer-offset' => [
             'default'                 => 'a:2:{s:4:"unit";s:2:"px";s:5:"value";s:3:"100";}',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-controls-outer-offset'],
             'inputType'               => 'inputUnit',
             'options'                 => $GLOBALS['CTM_CSS_UNITS'],
-            'eval'                    => ['placeholder'=>'100px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength'=>255, 'tl_class'=>'w33'],
+            'eval'                    => ['placeholder'=>'100px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength'=>255, 'tl_class'=>'w50 clr'],
         ],
 
         'tns-color-regular' => [

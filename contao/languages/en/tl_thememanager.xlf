@@ -1,54 +1,69 @@
 <?xml version="1.0" ?><xliff version="1.1">
   <file datatype="php" original="contao/languages/en/tl_thememanager.php" source-language="en">
     <body>
-      <trans-unit id="tl_thememanager.tns_legend">
-        <source>Tiny-Slider</source>
+      <trans-unit id="tl_thememanager.tns_header">
+        <source>Extension: Tiny Slider</source>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_dots_legend">
+        <source>Dots</source>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_controls_legend">
+        <source>Controls</source>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_colors_legend_regular">
+        <source>Colors (Regular)</source>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_colors_legend_primary">
+        <source>Colors (Primary)</source>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_colors_legend_secondary">
+        <source>Colors (Secondary)</source>
       </trans-unit>
 
       <trans-unit id="tl_thememanager.tns-dot-size.0">
-        <source>$tns-dot-size</source>
+          <source>$tns-dot-size</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-dot-size.1">
-        <source>Here you can set the size for tiny-slider navigation buttons.</source>
+          <source>Here you can set the size for tiny-slider navigation buttons.</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-dot-spacing.0">
-        <source>$tns-dot-spacing</source>
+          <source>$tns-dot-spacing</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-dot-spacing.1">
-        <source>Here you can set the horizontal margin for tiny-slider navigation buttons.</source>
+          <source>Here you can set the horizontal margin for tiny-slider navigation buttons.</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-controls-outer-offset.0">
-        <source>$tns-controls-outer-offset</source>
+          <source>$tns-controls-outer-offset</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-controls-outer-offset.1">
-        <source>Here you can set the outer offset for tiny-slider controls.</source>
+          <source>Here you can set the outer offset for tiny-slider controls.</source>
       </trans-unit>
 
       <trans-unit id="tl_thememanager.tns-color-regular.0">
-        <source>$tns-color-regular</source>
+          <source>$tns-color-regular</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-color-regular.1">
-        <source>Here you can set the regular color for tiny-slider buttons and controls.</source>
+          <source>Here you can set the regular color for tiny-slider buttons and controls.</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-active-color-regular.0">
-        <source>$tns-active-color-regular</source>
+          <source>$tns-active-color-regular</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-active-color-regular.1">
-        <source>Here you can set the regular color for active tiny-slider buttons and controls.</source>
+          <source>Here you can set the regular color for active tiny-slider buttons and controls.</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-color-regular-invert.0">
-        <source>$tns-color-regular-invert</source>
+          <source>$tns-color-regular-invert</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-color-regular-invert.1">
-        <source>Here you can set the inverted regular color for tiny-slider buttons and controls.</source>
+          <source>Here you can set the inverted regular color for tiny-slider buttons and controls.</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-active-color-regular-invert.0">
-        <source>$tns-active-color-regular-invert</source>
+          <source>$tns-active-color-regular-invert</source>
       </trans-unit>
       <trans-unit id="tl_thememanager.tns-active-color-regular-invert.1">
-        <source>Here you can set the inverted regular color for active tiny-slider buttons and controls.</source>
+          <source>Here you can set the inverted regular color for active tiny-slider buttons and controls.</source>
       </trans-unit>
-
+      
       <trans-unit id="tl_thememanager.tns-color-primary.0">
         <source>$tns-color-primary</source>
       </trans-unit>

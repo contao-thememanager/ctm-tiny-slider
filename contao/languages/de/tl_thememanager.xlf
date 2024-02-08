@@ -1,9 +1,29 @@
 <?xml version="1.0" ?><xliff version="1.1">
   <file datatype="php" original="contao/languages/en/tl_thememanager.php" source-language="en" target-language="de">
     <body>
-      <trans-unit id="tl_thememanager.tns_legend">
-        <source>Tiny-Slider</source>
-        <target>Tiny-Slider</target>
+      <trans-unit id="tl_thememanager.tns_header">
+        <source>Extension: Tiny Slider</source>
+        <target>Erweiterung: Tiny Slider</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_dots_legend">
+        <source>Dots</source>
+        <target>Dots</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_controls_legend">
+        <source>Controls</source>
+        <target>Controls</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_colors_legend_regular">
+        <source>Colors (Regular)</source>
+        <target>Farben (Regulär)</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_colors_legend_primary">
+        <source>Colors (Primary)</source>
+        <target>Farben (Primary)</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns_colors_legend_secondary">
+        <source>Colors (Secondary)</source>
+        <target>Farben (Secondary)</target>
       </trans-unit>
 
       <trans-unit id="tl_thememanager.tns-dot-size.0">
