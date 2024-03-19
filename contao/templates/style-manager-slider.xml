@@ -231,7 +231,7 @@
         <field title="alias">items</field>
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -247,7 +247,7 @@
         <field title="alias">slideBy</field>
         <field title="title">Slide By</field>
         <field title="description">Number of slides going on one &amp;#34;click&amp;#34;.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -572,7 +572,7 @@
         <field title="alias">items</field>
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -588,7 +588,7 @@
         <field title="alias">slideBy</field>
         <field title="title">Slide By</field>
         <field title="description">Number of slides going on one &amp;#34;click&amp;#34;.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -853,7 +853,7 @@
         <field title="alias">items</field>
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -869,7 +869,7 @@
         <field title="alias">slideBy</field>
         <field title="title">Slide By</field>
         <field title="description">Number of slides going on one &amp;#34;click&amp;#34;.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1134,7 +1134,7 @@
         <field title="alias">items</field>
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1150,7 +1150,7 @@
         <field title="alias">slideBy</field>
         <field title="title">Slide By</field>
         <field title="description">Number of slides going on one &amp;#34;click&amp;#34;.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1415,7 +1415,7 @@
         <field title="alias">items</field>
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1431,7 +1431,7 @@
         <field title="alias">slideBy</field>
         <field title="title">Slide By</field>
         <field title="description">Number of slides going on one &amp;#34;click&amp;#34;.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
@@ -1696,7 +1696,7 @@
         <field title="alias">items</field>
         <field title="title">Items</field>
         <field title="description">Number of slides being displayed in the viewport.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="cssClass">separator</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
@@ -1712,7 +1712,7 @@
         <field title="alias">slideBy</field>
         <field title="title">Slide By</field>
         <field title="description">Number of slides going on one &amp;#34;click&amp;#34;.</field>
-        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:8:"1 Column";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:9:"2 Columns";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:9:"3 Columns";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:9:"4 Columns";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:9:"5 Columns";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:9:"6 Columns";}}</field>
+        <field title="cssClasses">a:6:{i:0;a:2:{s:3:"key";s:1:"1";s:5:"value";s:1:"1";}i:1;a:2:{s:3:"key";s:1:"2";s:5:"value";s:1:"2";}i:2;a:2:{s:3:"key";s:1:"3";s:5:"value";s:1:"3";}i:3;a:2:{s:3:"key";s:1:"4";s:5:"value";s:1:"4";}i:4;a:2:{s:3:"key";s:1:"5";s:5:"value";s:1:"5";}i:5;a:2:{s:3:"key";s:1:"6";s:5:"value";s:1:"6";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>

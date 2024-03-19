@@ -5,7 +5,8 @@
             '{tns_controls_legend:hide ctm-group},tns-controls-outer-offset;' .
             '{tns_colors_legend_regular:hide ctm-group},tns-color-regular,tns-active-color-regular,tns-color-regular-invert,tns-active-color-regular-invert;' .
             '{tns_colors_legend_primary:hide ctm-group},tns-color-primary,tns-active-color-primary,tns-color-primary-invert,tns-active-color-primary-invert;' .
-            '{tns_colors_legend_secondary:hide},tns-color-secondary,tns-active-color-secondary,tns-color-secondary-invert,tns-active-color-secondary-invert;'
+            '{tns_colors_legend_secondary:hide ctm-group},tns-color-secondary,tns-active-color-secondary,tns-color-secondary-invert,tns-active-color-secondary-invert;' .
+            '{tns_miscellaneous_legend:hide},tns-items-amount;'
     ],
     'fields'   => [
         // Tiny Slider
@@ -104,6 +105,13 @@
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-active-color-secondary-invert'],
             'inputType'               => 'text',
             'eval'                    => ['placeholder'=>'rgba(255,255,255,1)', 'maxlength'=>255, 'colorpicker'=>true, 'decodeEntities'=>true, 'tl_class'=>'w25 wizard'],
+        ],
+
+        'tns-items-amount' => [
+            'default'                 => '',
+            'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-items-amount'],
+            'inputType'               => 'text',
+            'eval'                    => ['placeholder'=>'', 'maxlength'=>255, 'tl_class'=>'w100 clr'],
         ]
     ]
 ];

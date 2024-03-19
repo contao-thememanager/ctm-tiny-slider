@@ -25,6 +25,10 @@
         <source>Colors (Secondary)</source>
         <target>Farben (Secondary)</target>
       </trans-unit>
+      <trans-unit id="tl_thememanager.tns_miscellaneous_legend">
+        <source>Miscellaneous</source>
+        <target>Sonstiges</target>
+      </trans-unit>
 
       <trans-unit id="tl_thememanager.tns-dot-size.0">
           <source>$tns-dot-size</source>
@@ -148,6 +152,15 @@
       <trans-unit id="tl_thememanager.tns-active-color-secondary-invert.1">
         <source>Here you can set the inverted secondary color for active tiny-slider buttons and controls.</source>
         <target>Hier können Sie die invertierte sekundäre Farbe für aktive tiny-slider Navigations- und Kontrollbuttons einstellen.</target>
+      </trans-unit>
+
+      <trans-unit id="tl_thememanager.tns-items-amount.0">
+        <source>$tns-items-amount</source>
+        <target>$tns-items-amount</target>
+      </trans-unit>
+      <trans-unit id="tl_thememanager.tns-items-amount.1">
+        <source>Here you can enter comma-separated item options that will be available within the Tiny Slider configuration.</source>
+        <target>Hier können Sie durch Komma getrennte Item-Optionen eingeben, die innerhalb der Tiny Slider Konfiguration verfügbar sein sollen.</target>
       </trans-unit>
     </body>
   </file>
