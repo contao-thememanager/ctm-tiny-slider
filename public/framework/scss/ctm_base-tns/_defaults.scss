@@ -59,6 +59,10 @@
   > .tns-outer {
     overflow: hidden;
     margin: calc(var(--t-gtr) * -1);
+
+    @at-root #{selector-append('.tns-ov', &)} {
+      overflow: visible;
+    }
   }
 
   > .inside > .c_headline {

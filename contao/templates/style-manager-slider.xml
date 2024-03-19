@@ -14,7 +14,7 @@
         <field title="alias">init</field>
         <field title="title">Slider Active</field>
         <field title="description">Here you define whether the slider for this element should be initialized.</field>
-        <field title="cssClasses">a:1:{i:0;a:2:{s:3:"key";s:27:"init-slider init-tns-slider";s:5:"value";s:3:"Yes";}}</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:27:"init-slider init-tns-slider";s:5:"value";s:7:"Default";}i:1;a:2:{s:3:"key";s:34:"init-slider init-tns-slider tns-ov";s:5:"value";s:8:"Overflow";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
