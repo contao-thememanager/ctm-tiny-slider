@@ -13,7 +13,7 @@
 .tns-nav,
 .tns-controls {
   z-index: 1;
-  margin: $grid-gutter-bottom var(--t-gtr) var(--t-gtr);
+  margin: var(--v-gap) var(--t-gtr) var(--t-gtr);
 
   pointer-events: none;
 
@@ -22,12 +22,12 @@
   }
 
   .box & {
-    margin: $grid-gutter-bottom 0 var(--t-gtr);
+    margin: var(--v-gap) 0 0;
   }
 
   // Switch margin when position top has been chosen (first or second child)
   &:nth-child(-n+2) {
-    margin: var(--t-gtr) 0 $grid-gutter-bottom;
+    margin: 0 0 var(--v-gap);
   }
 }
 
