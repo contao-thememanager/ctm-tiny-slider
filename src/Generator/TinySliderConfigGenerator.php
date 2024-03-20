@@ -24,6 +24,8 @@ class TinySliderConfigGenerator extends ConfigGenerator
             }
         }
 
+        $newOptions = array_merge($newOptions, ['1','2','3','4','5','6']);
+
         asort($newOptions);
         $configVars['tns-items-amount'] = implode(',', $newOptions);;
         $options = $this->getListOptions($configVars, 'tns-items-amount');
