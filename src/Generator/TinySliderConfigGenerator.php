@@ -14,13 +14,18 @@ class TinySliderConfigGenerator extends ConfigGenerator
 {
     public function generateOptions(array &$configVars, StyleManagerXML $xml): void
     {
-        $newOptions = explode(',', $configVars['tns-items-amount']);
+        $newOptions = [];
 
-        foreach ($newOptions as $key => $var)
+        if (isset($configVars['tns-items-amount']))
         {
-            if (!is_numeric($var))
+            $newOptions = explode(',', $configVars['tns-items-amount']);
+
+            foreach ($newOptions as $key => $var)
             {
-                unset($newOptions[$key]);
+                if (!is_numeric($var))
+                {
+                    unset($newOptions[$key]);
+                }
             }
         }
 
