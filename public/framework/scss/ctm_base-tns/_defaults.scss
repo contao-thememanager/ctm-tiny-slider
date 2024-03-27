@@ -47,6 +47,7 @@
 }
 
 .init-slider {
+  --tn-ov:hidden;
   --tn:var(--tn-1);
   --tn-a:var(--tn-1-a);
   --tb:var(--tb-1);
@@ -57,12 +58,8 @@
 
   > .inside,
   > .tns-outer {
-    overflow: hidden;
+    overflow: var(--tn-ov);
     margin: calc(var(--t-gtr) * -1);
-
-    @at-root #{selector-append('.tns-ov', &)} {
-      overflow: visible;
-    }
   }
 
   > .inside > .c_headline {

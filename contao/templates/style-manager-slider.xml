@@ -14,7 +14,7 @@
         <field title="alias">init</field>
         <field title="title">Slider Active</field>
         <field title="description">Here you define whether the slider for this element should be initialized.</field>
-        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:27:"init-slider init-tns-slider";s:5:"value";s:7:"Default";}i:1;a:2:{s:3:"key";s:34:"init-slider init-tns-slider tns-ov";s:5:"value";s:8:"Overflow";}}</field>
+        <field title="cssClasses">a:1:{i:0;a:2:{s:3:"key";s:27:"init-slider init-tns-slider";s:5:"value";s:3:"Yes";}}</field>
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
@@ -220,6 +220,19 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
+      <child alias="overflow">
+        <field title="pid">10020</field>
+        <field title="sorting">1050</field>
+        <field title="alias">overflow</field>
+        <field title="title">Overflow</field>
+        <field title="description">Allows overflowing the slider items.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"t-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:5:"t-ovv";s:5:"value";s:7:"Visible";}}</field>
+        <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
         <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
         <field title="extendModule">1</field>
@@ -566,6 +579,19 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="overflow">
+        <field title="pid">10030</field>
+        <field title="sorting">550</field>
+        <field title="alias">overflow</field>
+        <field title="title">Overflow</field>
+        <field title="description">Allows overflowing the slider items.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:8:"t-xs-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:8:"t-xs-ovv";s:5:"value";s:7:"Visible";}}</field>
+        <field title="blankOption">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="items">
         <field title="pid">10030</field>
         <field title="sorting">600</field>
@@ -842,6 +868,19 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
+      <child alias="overflow">
+        <field title="pid">10040</field>
+        <field title="sorting">550</field>
+        <field title="alias">overflow</field>
+        <field title="title">Overflow</field>
+        <field title="description">Allows overflowing the slider items.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"t-s-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:7:"t-s-ovv";s:5:"value";s:7:"Visible";}}</field>
+        <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
         <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
         <field title="extendModule">1</field>
@@ -1128,6 +1167,19 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="overflow">
+        <field title="pid">10050</field>
+        <field title="sorting">550</field>
+        <field title="alias">overflow</field>
+        <field title="title">Overflow</field>
+        <field title="description">Allows overflowing the slider items.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"t-m-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:7:"t-m-ovv";s:5:"value";s:7:"Visible";}}</field>
+        <field title="blankOption">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="items">
         <field title="pid">10050</field>
         <field title="sorting">600</field>
@@ -1409,6 +1461,19 @@
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
+      <child alias="overflow">
+        <field title="pid">10060</field>
+        <field title="sorting">550</field>
+        <field title="alias">overflow</field>
+        <field title="title">Overflow</field>
+        <field title="description">Allows overflowing the slider items.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"t-l-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:7:"t-l-ovv";s:5:"value";s:7:"Visible";}}</field>
+        <field title="blankOption">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
       <child alias="items">
         <field title="pid">10060</field>
         <field title="sorting">600</field>
@@ -1685,6 +1750,19 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
+        <field title="extendContentElement">1</field>
+        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="extendModule">1</field>
+        <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
+      </child>
+      <child alias="overflow">
+        <field title="pid">10070</field>
+        <field title="sorting">550</field>
+        <field title="alias">overflow</field>
+        <field title="title">Overflow</field>
+        <field title="description">Allows overflowing the slider items.</field>
+        <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:8:"t-xl-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:8:"t-xl-ovv";s:5:"value";s:7:"Visible";}}</field>
+        <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
         <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
         <field title="extendModule">1</field>

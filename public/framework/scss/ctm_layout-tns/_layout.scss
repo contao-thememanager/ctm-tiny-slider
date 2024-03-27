@@ -63,5 +63,10 @@
       --tn-m:0 #{divide($grid-gutter-width, 2)},
       --tn-dsp:flex
     )
+  ),
+  // Overflows
+  '.t': (
+    '&-ovh': (--tn-ov:hidden),
+    '&-ovv': (--tn-ov:visible)
   )
 ));
