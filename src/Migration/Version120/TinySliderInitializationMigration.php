@@ -91,19 +91,18 @@ class TinySliderInitializationMigration extends AbstractMigration
                 continue;
             }
 
-            $cssID[1] = ltrim($cssID[1] . ' init-slider init-tns-slider');
+            if (false === strpos($cssID[1], 'init-slider init-tns-slider'))
+            {
+                $cssID[1] = ltrim($cssID[1] . ' init-slider init-tns-slider');
+            }
 
             $styleManager = StringUtil::deserialize($values['styleManager'], true);
 
-            if (
-                (false !== strpos($cssID[1], 'init-slider init-tns-slider'))
-                || !isset($styleManager['__vars__']['sliderConfig']['init'])
-            ) {
-                continue;
+            if (isset($styleManager['__vars__']['sliderConfig']['init']))
+            {
+                unset($styleManager['__vars__']['sliderConfig']['init']);
+                $styleManager['sliderConfig_init'] = 'init-slider init-tns-slider';
             }
-
-            unset($styleManager['__vars__']['sliderConfig']['init']);
-            $styleManager['sliderConfig_init'] = 'init-slider init-tns-slider';
 
             $this->connection->update($table,
                 [
