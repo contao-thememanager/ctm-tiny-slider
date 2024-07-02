@@ -1,0 +1,7 @@
+services:
+  ContaoThemeManager\TinySlider\Migration\Version120\TinySliderInitializationMigration:
+    arguments:
+      - '@database_connection'
+      - '@contao.framework'
+    tags:
+      - { name: contao.migration, priority: 0 }
