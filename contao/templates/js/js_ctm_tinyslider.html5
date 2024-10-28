@@ -74,12 +74,16 @@
             gutter: 0,
             preventScrollOnTouch: 'auto',
             controlsText: [
-                '<span class="prev">prev</span>',
-                '<span class="next">next</span>'
+                '<p class="prev invisible"><?= $this->trans("MSC.tinySliderControlsPrev") ?></p>',
+                '<p class="next invisible"><?= $this->trans("MSC.tinySliderControlsNext") ?></p>'
+            ],
+            navText: [
+                '<?= $this->trans("MSC.tinySliderNavGoTo") ?>',
+                '<?= $this->trans("MSC.tinySliderNavActiveSlide") ?>'
             ],
             autoplayText: [
-                '<span class="start">start</span>',
-                '<span class="stop">stop</span>'
+                '<span class="start">Start</span>',
+                '<span class="stop">Stop</span>'
             ]
         };
 
