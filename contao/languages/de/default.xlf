@@ -1,0 +1,22 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="contao/languages/en/default.php" source-language="en" target-language="de">
+    <body>
+      <trans-unit id="MSC.tinySliderControlsPrev">
+        <source>Previous slide</source>
+        <target>Vorheriger Slide</target>
+      </trans-unit>
+      <trans-unit id="MSC.tinySliderControlsNext">
+        <source>Next slide</source>
+        <target>Nächster Slide</target>
+      </trans-unit>
+      <trans-unit id="MSC.tinySliderNavGoTo">
+        <source>Go to slide </source>
+        <target>Wechseln zu Slide </target>
+      </trans-unit>
+      <trans-unit id="MSC.tinySliderNavActiveSlide">
+        <source> (active slide)</source>
+        <target> (aktiver Slide)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
