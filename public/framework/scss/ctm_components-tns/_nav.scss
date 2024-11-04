@@ -3,24 +3,29 @@
 
   button {
     display: inline-block;
-
-    width:  $tns-dot-size;
-    height: $tns-dot-size;
-
-    padding: 0;
-    margin: 0 $tns-dot-spacing;
-
-    border-radius: 50%;
-
+    padding: $tns-dot-spacing;
     border: 0 none;
+    background: transparent;
 
-    background: var(--tn);
-
-    &.tns-nav-active,
     &:hover {
-      background: var(--tn-a);
+      background: transparent;
     }
   }
+}
+
+.tns-dot {
+  display: block;
+
+  width:  $tns-dot-size;
+  height: $tns-dot-size;
+
+  border-radius: 50%;
+
+  background: var(--tn);
+}
+
+:is(.tns-nav-active, .tns-active:hover) .tns-dot {
+  background: var(--tn-a);
 }
 
 // Colors

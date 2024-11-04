@@ -18,7 +18,7 @@
             'eval'                    => ['placeholder'=>'12px', 'includeBlankOption'=>true, 'rgxp'=>'digit_inherit', 'maxlength'=>255, 'tl_class'=>'w50 clr'],
         ],
         'tns-dot-spacing' => [
-            'default'                 => 'a:2:{s:4:"unit";s:2:"px";s:5:"value";s:1:"5";}',
+            'default'                 => 'a:2:{s:4:"unit";s:2:"px";s:5:"value";s:1:"6";}',
             'label'                   => &$GLOBALS['TL_LANG']['tl_thememanager']['tns-dot-spacing'],
             'inputType'               => 'inputUnit',
             'options'                 => $GLOBALS['CTM_CSS_UNITS'],
