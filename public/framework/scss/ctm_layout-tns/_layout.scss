@@ -35,6 +35,10 @@
   }
 }
 
+.mod_article:has(.t-ovv, .t-xs-ovv, .t-s-ovv, .t-m-ovv, .t-l-ovv, .t-xl-ovv) {
+  overflow-x: clip;
+}
+
 @include generate-infix-breakpoint-styles((
   // Tns controls
   '.tbtn': (
