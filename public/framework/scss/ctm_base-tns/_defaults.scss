@@ -62,9 +62,9 @@
     margin: calc(var(--t-gtr) * -1);
   }
 
-  > .inside > .c_headline {
+  &.box > .inside { margin: 0; }
+
+  &:not(.box) > .inside > .c_headline {
     padding: var(--t-gtr) var(--t-gtr) 0;
   }
-
-  &.box > .inside { margin: 0; }
 }
