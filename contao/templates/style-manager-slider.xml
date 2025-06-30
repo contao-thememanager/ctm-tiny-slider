@@ -18,7 +18,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -33,7 +33,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -47,7 +47,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -71,7 +71,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -86,7 +86,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -101,7 +101,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -116,7 +116,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -131,7 +131,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -146,7 +146,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -161,7 +161,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -176,7 +176,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -191,7 +191,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -206,7 +206,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -221,7 +221,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -234,7 +234,7 @@
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:5:"t-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:5:"t-ovv";s:5:"value";s:7:"Visible";}}</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -250,7 +250,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -265,7 +265,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -280,7 +280,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -295,7 +295,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -310,7 +310,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -326,7 +326,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -341,7 +341,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -355,7 +355,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -371,7 +371,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -386,7 +386,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -400,7 +400,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -416,7 +416,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -431,7 +431,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -446,7 +446,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -461,7 +461,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -476,7 +476,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -500,7 +500,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -515,7 +515,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -530,7 +530,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -545,7 +545,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -560,7 +560,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -575,7 +575,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -588,7 +588,7 @@
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:8:"t-xs-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:8:"t-xs-ovv";s:5:"value";s:7:"Visible";}}</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -604,7 +604,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -619,7 +619,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -634,7 +634,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -649,7 +649,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -664,7 +664,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -680,7 +680,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -694,7 +694,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -710,7 +710,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -724,7 +724,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -740,7 +740,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -755,7 +755,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -770,7 +770,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -794,7 +794,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -809,7 +809,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -824,7 +824,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -839,7 +839,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -854,7 +854,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -869,7 +869,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -882,7 +882,7 @@
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"t-s-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:7:"t-s-ovv";s:5:"value";s:7:"Visible";}}</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -898,7 +898,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -913,7 +913,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -928,7 +928,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -943,7 +943,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -958,7 +958,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -974,7 +974,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -988,7 +988,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1004,7 +1004,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1018,7 +1018,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1034,7 +1034,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1049,7 +1049,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1064,7 +1064,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1088,7 +1088,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1103,7 +1103,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1118,7 +1118,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1133,7 +1133,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1148,7 +1148,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1163,7 +1163,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1176,7 +1176,7 @@
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"t-m-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:7:"t-m-ovv";s:5:"value";s:7:"Visible";}}</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1192,7 +1192,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1207,7 +1207,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1222,7 +1222,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1237,7 +1237,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1252,7 +1252,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1268,7 +1268,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1282,7 +1282,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1298,7 +1298,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1312,7 +1312,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1328,7 +1328,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1343,7 +1343,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1358,7 +1358,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1382,7 +1382,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1397,7 +1397,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1412,7 +1412,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1427,7 +1427,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1442,7 +1442,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1457,7 +1457,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1470,7 +1470,7 @@
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:7:"t-l-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:7:"t-l-ovv";s:5:"value";s:7:"Visible";}}</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1486,7 +1486,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1501,7 +1501,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1516,7 +1516,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1531,7 +1531,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1546,7 +1546,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1562,7 +1562,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1576,7 +1576,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1592,7 +1592,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1606,7 +1606,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1622,7 +1622,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1637,7 +1637,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1652,7 +1652,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1676,7 +1676,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1691,7 +1691,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1706,7 +1706,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1721,7 +1721,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1736,7 +1736,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1751,7 +1751,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1764,7 +1764,7 @@
         <field title="cssClasses">a:2:{i:0;a:2:{s:3:"key";s:8:"t-xl-ovh";s:5:"value";s:6:"Hidden";}i:1;a:2:{s:3:"key";s:8:"t-xl-ovv";s:5:"value";s:7:"Visible";}}</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1780,7 +1780,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1795,7 +1795,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1810,7 +1810,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1825,7 +1825,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1840,7 +1840,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1856,7 +1856,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1870,7 +1870,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1886,7 +1886,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1900,7 +1900,7 @@
         <field title="chosen">1</field>
         <field title="blankOption">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1916,7 +1916,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1931,7 +1931,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
@@ -1946,7 +1946,7 @@
         <field title="blankOption">1</field>
         <field title="passToTemplate">1</field>
         <field title="extendContentElement">1</field>
-        <field title="contentElements">a:7:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";}</field>
+        <field title="contentElements">a:8:{i:0;s:19:"rsce_icon_text_list";i:1;s:15:"rsce_image_list";i:2;s:20:"rsce_image_text_list";i:3;s:14:"rsce_text_list";i:4;s:12:"wrapperStart";i:5;s:19:"wrapperStartContent";i:6;s:7:"gallery";i:7;s:13:"element_group";}</field>
         <field title="extendModule">1</field>
         <field title="modules">a:2:{i:0;s:8:"newslist";i:1;s:9:"eventlist";}</field>
       </child>
