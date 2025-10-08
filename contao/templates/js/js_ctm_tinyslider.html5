@@ -56,11 +56,11 @@
     (function() {
         const tnsBreakpoints = {
             'slider':   0,
-            'sliderXs': 600,
-            'sliderS':  768,
-            'sliderM':  1024,
-            'sliderL':  1264,
-            'sliderXl': 1920
+            'sliderXs': parseInt(window.getComputedStyle(document.body).getPropertyValue('--bp-xs')) || 600,
+            'sliderS':  parseInt(window.getComputedStyle(document.body).getPropertyValue('--bp-s')) || 768,
+            'sliderM':  parseInt(window.getComputedStyle(document.body).getPropertyValue('--bp-m')) || 1024,
+            'sliderL':  parseInt(window.getComputedStyle(document.body).getPropertyValue('--bp-l')) || 1264,
+            'sliderXl': parseInt(window.getComputedStyle(document.body).getPropertyValue('--bp-xl')) || 1920
         };
 
         let defaults = {
